@@ -1,0 +1,20 @@
+# Reference currency is USD
+# Making a change
+# - We need to have this
+# - Plasma cutter
+# - Example of how we can commit
+---
+i: Raspberry Pi 3   # item
+q: 1                # quantity
+mq: 1               # minimum order quantity
+cp: 39.9            # cost per unit
+tc:
+spc: 0              # shipping cost
+url:
+  Amazon: https://www.amazon.com/s?k=raspberry+pi&i=electronics&ref=nb_sb_noss_1
+  Aliexpress:
+description: >
+  The Raspberry Pi 3 Model B+ is the latest product in the Raspberry Pi 3 range, boasting an updated 64-bit quad core processor running at 1.4GHz with built-in metal heatsink, dual-band 2.4GHz and 5GHz wireless LAN, faster (300 mbps) Ethernet, and PoE capability via a separate PoE HAT.
+  - Also comes with x and why.
+
+---
