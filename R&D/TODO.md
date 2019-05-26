@@ -1,4 +1,6 @@
 #TODO: Physical model to determine forces for FEM analysis
+- Describe and open the  issue with help wanted label (Jose)
+
 We could design and update an issue, to crowd source it.
 - Design the experiment and simulation.
 Ideas for experiment: assume certain facts, and data for the model
@@ -8,5 +10,5 @@ Ideas for experiment: assume certain facts, and data for the model
 Consider software like [modelica](https://www.youtube.com/watch?v=-mvEUuc-sWE&ab_channel=StrangeLoop) for physic systems simulation.
 
 
-#TODO: FEM Analysis of parts designed depending on physical model
+#TODO:50 FEM Analysis of parts designed depending on physical model
 - Big centrifuge design
