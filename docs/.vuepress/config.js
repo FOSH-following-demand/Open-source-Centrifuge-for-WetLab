@@ -1,0 +1,14 @@
+module.exports = {
+  title: 'Another Open Hardware Centrifuge',
+  description: 'Another Open Hardware Centrifuge',
+  base: '/Open-source-Centrifuge-for-WetLab/',
+  dest: '.docs/'
+
+  themeConfig: {
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'Guide', link: '/guide/' },
+      { text: 'External', link: 'https://google.com' },
+    ]
+  }
+}

@@ -1,24 +1,26 @@
-#TODO: ## Buy a polyfuge kit design
-- [Buy to test in the context of daily use in wetlab](https://www.kickstarter.com/projects/1733191226/polyfuge-a-diy-open-source-microcentrifuge-for-eve)
-
-
-
 # Design brief for wet lab centrifuges design
 
 ## Describe the product's vision
-- Open Source centrifuge that improves the commonalization of components.
--
+- Open Source centrifuge that improves:
+  - The commonalization of components.
+- Any entity, org, business with the capacity to build the designs can do it
+- We aim to bring production as close as possible to consumption
+- We aim to bring also the know-how and the experience to the public domain so that anyone can improve the design
+- We aim also for standards to ensure robustness and efficiency
 
 ## User group
-Describe the group of users that will use the product. Market segment to which we are going.
+- Professional lab staff (Scientific labs and hospitals)
+- University labs, and University level education.
+
 ## Needs
-- Access to equipment that is competitive, commercial grade(is a product not a design, that meet the standards) also open and easy to improve by anyone...
+- Access to equipment that is competitive, commercial grade, is the design of a product and not just a hack, it meets the standards for wet-labs, but it is also open source, easy to propose improvements by anyone...
 (An open hardware product)
 - We need to centrifuge different volumes
   - up to 1.5ml
   - up to 50 ml
 
-### Audience/ Users
+### Audience
+- Not just users but also manufacturers and professionals related to manufacturing.
 
 ### Jobs (Requirements)
 - Needs to be compliant with [wet lab requirements](https://en.wikipedia.org/wiki/Wet_lab)
