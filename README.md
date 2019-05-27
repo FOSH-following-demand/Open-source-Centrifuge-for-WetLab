@@ -1,7 +1,11 @@
-# equipment_repository_template
 
-This is a template repository. should be used as a guideline by people/groups developing equipment in this project
+# VuePressOnGithubPageTemplate
 
-Readme can have a link to all the relevant files/documents and can/should be used to give examples of data collected with the device as well as the rational behind its construction.
+This is VuePress template for GitHub Pages.
+Just you need these 4 steps, and then, publish!
 
-Should also have mentions to code of conduct and contributing guidelines.
+これはVuePressで作ったページをGitHubで公開する雛形です。  
+4ステップでページを公開しましょう！
+
+[More detail](https://fruitriin.github.io/VuePressOnGithubPageTemplate/)
+

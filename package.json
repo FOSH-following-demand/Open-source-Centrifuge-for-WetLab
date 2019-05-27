@@ -1,9 +1,13 @@
 {
-  "devDependencies": {
-    "vuepress": "^0.14.11"
-  },
+  "name": "VuePressOnGithubPagesTemplate",
+  "version": "1.0.0",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
-  }
+  },
+  "devDependencies": {
+    "vuepress": "^0.8.4",
+    "dotenv": "^5.0.1"
+  },
+  "license": "MIT"
 }
