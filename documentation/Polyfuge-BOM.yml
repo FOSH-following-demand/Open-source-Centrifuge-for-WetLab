@@ -1,0 +1,124 @@
+# A BOMake test with the electrical part of the BOM from the Polyfuge.
+---
+bomName: Polyfuge (electrical part only)
+i: LCD screen       # item
+q: 1                # quantity
+mq: 1               # minimum order quantity
+cp: 3.45            # cost per unit
+spc: 0              # shipping cost
+url: https://www.martoparts.nl/16x2-LCD-Display
+---
+i: Arduino Nano V3 microcontroller
+q: 1
+mq: 1
+cp: 4.95
+spc: 2.95
+url: https://www.martoparts.nl/ATmega328P-Arduino-Nano-
+# description: > shipping costs are for whole Martoparts order
+---
+
+i: Rocker switch
+q: 1
+mq: 1
+cp: 0.25
+# tc:
+url: https://www.martoparts.nl/KCD11-aan/uit-schakelaar
+
+---
+i: Jumper wires female to female
+q: 1  #  Ammount of wires is actually 33
+mq: 1
+cp: 2.55
+# tc:
+
+url: https://www.martoparts.nl/dupont-female-female-10cm
+# description: female to female
+---
+i: male pins for jumper wires
+q: 15
+mq: 40
+cp: 0.25
+tc:
+url: https://www.martoparts.nl/Headerpins-male-recht
+---
+i: Voltage regulator
+q: 1
+mq: 1
+cp: 2.25
+tc:
+url: https://www.martoparts.nl/LM2596
+# description: DC-DC controlable step down module. From 4.5-35V to 1.5-30V. 2A.
+---
+i: 200 Ohm trim potmeter
+q: 1
+mq: 2
+cp: 0.40
+tc:
+url: https://www.martoparts.nl/Trim-potmeter-200-R
+# description: R=200 Ohm
+---
+i: 10k resistor
+q: 1
+mq: 2
+cp: 0.15
+tc:
+url: https://www.martoparts.nl/weerstand_10K
+# description: R=10 kOhm
+---
+i: 100 Ohm resistor
+q: 1
+mq: 5
+cp: 0.15
+tc:
+url: https://www.martoparts.nl/koolfilmweerstand-100R
+# description: R= 100 Ohm
+---
+i: DC barrel jack socket
+q: 1
+mq: 1
+cp: 0.25
+tc:
+url: https://www.martoparts.nl/dc_socket
+# description: 5.5x2.1 mm socket
+---
+i: Power Adapter with barrel jack plug
+q: 1
+mq: 1
+cp: 9.95
+# tc: 3.95
+url: https://www.ledstripkoning.nl/accessoires/adapters-12-en-24-volt/24-watt-12v-2a-adapter-voor-led-strips/?gclid=Cj0KCQjwrJ7nBRD5ARIsAATMxstuY3HqAiZLQlshLLPo-MgkOlCMMxn6t3IrUOHOPgqy8ffu3xT3hNIaAogNEALw_wcB
+# description: 24W / 12V / 2A with 5.5x2.1 mm plug. or matching the socket above when different.
+---
+i: Emax MT2204 Brushless Motor
+q: 1
+mq: 1
+cp: 25.48
+# tc: 3.50
+url: https://www.mijn-hebbeding.nl/Webwinkel-Product-338082174/Emax-MT2204-2300KV-Borstelloze-motor-voor-QAV250-RC-Drone-FPV-Racing.html
+# description: Type= MT2204 2300KV CW for QAV250 Quadcopter
+---
+i: Emax BLHeli 12A ESAC Speed Controller
+q: 1
+mq: 1
+cp: 13.39
+tc:
+
+url: https://www.mijn-hebbeding.nl/Webwinkel-Product-338081834/SimonK-Serie-12A-ESC-Snelheidsregelaar-Lineaire-BEC-Programmeerbaar-voor-RC-Drone.html
+# description: originally used for QAV250 Quadcopter
+---
+i: TCRT5000 IR reflex sensor
+q: 1
+mq: 2
+cp: 5.95
+tc: 3.95
+url: https://www.gadgetstrading.nl/2-pcs-ldtr-yj002-tcrt5000-infrared-reflective-sensor.html
+# description: 5V/3A. 15-20mm distance
+---
+i: Rotary Encoder with push button
+q: 1
+mq: 1
+cp: 1.35
+tc: 2.00
+url: https://www.vanallesenmeer.nl/12mm-Rotary-Encoder-Push-Button?gclid=Cj0KCQjwrJ7nBRD5ARIsAATMxssWqlt1Di2kdFCQ84IgbFguXExF9BqKDx4Rl7NSFMOOkqQgxxApW_IaAh3rEALw_wcB
+# description: d=6mm. l=12mm. 20 pulses
+---
