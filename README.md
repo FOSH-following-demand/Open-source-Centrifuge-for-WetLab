@@ -1,6 +1,6 @@
 # An Open Source Centrifuge Design for wetlab
 
-## Hi! :) Welcome to the project
+## Hi! 😄 Welcome to the project
 We are working on the design of an open hardware centrifuge based on the following questions:
 #### What can be improved in existing commercial centrifuges?
 #### What can be improved in already existing open hardware models?
@@ -18,9 +18,9 @@ We are working on the design of an open hardware centrifuge based on the followi
 - [Ordered parts of Polyfuge version](/R&D/Anaylisis/Polyfuge-BOM.yml).
 
 ### Current phase: Concept generation and prototype design
-Based on the research done about centrifuge usage we have defined [requirements](/R&D/Anaylisis) and target features to focus on.
+Based on the research done about centrifuge usage we have defined [requirements](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/tree/master/R%26D/Analysis) and target features to focus on.
 ## Links
-- [Concept for solutions and test cards](R&D/test-cards/)
+- [Concept for solutions and test cards](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/tree/master/R%26D/test-cards)
 - Find out the concept and associated test cases here.
 
 ## About project documentation and folders:
