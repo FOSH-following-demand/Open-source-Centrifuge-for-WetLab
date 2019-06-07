@@ -10,6 +10,8 @@
   - 'X' RPM
   - 'z' torque
   - Reliable motor speed with dynamic load variations (is there any specification for this?)
+  - Isolation of the motor for
+  - Cooling of the motor is required because motor can spin more than 20 mins.
 
 #### Interface / Software
   - Be able to change speed (per how much RPM?)
@@ -36,3 +38,12 @@ Robustness in this system implies that samples are well fixed to the holder, so 
   - Be able to be put together locally like a kit (is this a requirement?)
   - Be able to be taken apart locally for repair
   -
+
+
+
+
+
+# Considerations:
+## Thermo couple
+- One thermocouple should
+- Calibration of the thermocouple

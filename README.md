@@ -3,7 +3,7 @@
 ## Hi! :) Welcome to the project
 We are working on the design of an open hardware centrifuge based on the following questions:
 #### What can be improved in existing commercial centrifuges?
-#### What can be improved in already existing hardware models?
+#### What can be improved in already existing open hardware models?
 #### Goal: Design, improve a key feature based on the answers we got from these two questions
 #### Design approach:
 - Replicate a model of open hardware centrifuges.
@@ -23,6 +23,12 @@ Based on the research done about centrifuge usage we have defined [requirements]
 - [Concept for solutions and test cards](R&D/test-cards/)
 - Find out the concept and associated test cases here.
 
+## About project documentation and folders:
+There are two sets of documentation in this repository:
+- One that is external and relevant for users. This we try to document carefully and make it easy to understand to others outside the core team. Our final project documentation(the source) will be presented in [this format](https://fosh-following-demand.github.io/Open-source-Centrifuge-for-WetLab/). Be aware that is currently not finished as we haven't released the results yet.
+- Another set of documentation is where we keep internal track of our tasks and progress. This one might be too detailed for external users, and even contributors. If you are interesting in following up also this set of documentation you need to:
+  - Use Atom editor.
+  - And install the [.imdone](https://atom.io/packages/imdone-atom) package in Atom.
 
 ## References:
 - [Value Proposition prototyping and testing](https://issuu.com/business.model.innovation/docs/vpd_sneakpeek/92)

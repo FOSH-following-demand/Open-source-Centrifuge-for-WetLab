@@ -4,7 +4,7 @@ In this document we collect all the hypothesis related to product improvements, 
 A model like the one in the drawing can be more cost effective...
 
 
-#TEST: Calculate costs for doubled motr centrifuge
+#TEST:10 Calculate costs for doubled motr centrifuge
 Assuming the following
 
 

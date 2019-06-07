@@ -1,4 +1,4 @@
-# Test card
+#TEST:20 ## Cooling-lead
 #### Name: Jose
 #### Date: 7-6-2019
 
@@ -24,7 +24,7 @@ A peltier element `3` can be placed on a metal surface `1` that is in direct con
 ## 3. What are you going to measure
 - Measure inner temperature in sample
   - Must calculate the inner temperature of the sample, not the outer of  the sample reservoir. Calculate this based on the material.
-  - Heat transfer considerations. 
+  - Heat transfer considerations.
 - Measure samples also after being centrifuged.
 
 ## 4. Your experiment is successful if:
