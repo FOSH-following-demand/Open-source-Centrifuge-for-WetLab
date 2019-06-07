@@ -1,5 +1,6 @@
-# Contribute guidelines
-## Hi! Thank you very much for reaching us out. We are looking for contributions of different kind that ranges from incidental but meaningful contributions to extended and close collaboration.
+# Contributing guidelines
+## Hi! 😸 Thank you very much for reaching us out.
+We are looking for contributions of different kind that ranges from incidental but meaningful contributions to extended and close collaboration.
 
 ## Things to consider:
 - We are focusing in this first iteration on small centrifuge design of 15 ml.
@@ -12,7 +13,7 @@
 
 ### Opening github issues for design improvements you have been thinking about:
 We always consider each improvement as a hypothesis that needs to be tested.
-You can also point to videos, documentation and solutions that support the hypothesis/idea you have in mind.
+You can also point to videos, documentation and solutions that support the hypothesis/idea you have in mind. [See this example](https://www.youtube.com/watch?v=9Cuh2msd2lo) as a style guide for test setup.
 - If you have ideas about centrifuge solutions features, open an issue and describe the concept/hypothesis considering the following:
   1. How this feature improves the centrifuge design considering:
   1.1. Pains you have already had in your previous experience.
