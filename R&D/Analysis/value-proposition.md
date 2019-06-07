@@ -13,13 +13,30 @@
 ## Pains : what bother us as users , and are critical on the good performance of the above mentioned jobs.
 - (**critical**)There is no internal checking from the equipment that tell to the user that the samples are not properly distributed, before start centrifuging.
 - There is no stop mechanism for unbalanced distributions.
-- (**critical**)For small centrifuges (eppendurf commercially available) there is no an automatic sign from the equipment related with the  closing of the respective lids that need to be properly closed, before pressing RUN.
+- (**critical**)For small centrifuges (eppendorve commercially available) there is no an automatic sign from the equipment related with the  closing of the respective lids that need to be properly closed, before pressing RUN.
 - At least for the case of small centrifuges, the machine is able to start runing even if the lid is not correctly closed.
-  - if a lid is not properly closed can lead also to severe damage of the system.
+- if a lid is not properly closed can lead also to severe damage of the system.
 - Consequently, users with no experience can easily break the machine.
 - (**Not critical**)The transfer process of samples from the bench rack to the centrifuge and viceversa, could be a bit tedious, specially when working with many samples at once.
+
+
+### Specific problems with regard to open hardware current versions
+- Lack of temperature control solution
 
 ## Gains: what we would make the experience better for the above jobs.
 
 - It would be nice and smart if an automatic mechanism is implemented in the small centrifuges that recognizes when a distribution of samples is unbalanced and also when the lids are not properly closed.
 - It would be nice, for the case when working with may samples to have a rack that have a dual use, for centrifuge and bench manipulations.
+
+
+## Gain creators:
+- Automatically detects if system is unbalanced or not.
+- The centrifuges provides use cues to balance the
+- Centrifuge starts only if the lead is correctly closed, otherwise it doesn't start
+
+## Pain releivers:
+- Use the same holder that is used to prepared the samples
+-  
+
+## Key product features
+- Cooling

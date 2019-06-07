@@ -5,7 +5,7 @@
 - Ready for replication
 - High quality documentation
 - And reflection on how build the big centrifuge
-- 
+-
 
 # Approach:
 - Case study: Define design questions and problems based on production system, usage, etc.
@@ -22,9 +22,3 @@
 
 
 The motor is the component that defines or constrains the whole design of the product, from a technical perspective.
-
-
-### Safety requirements:
-- Robustness in this system implies that samples are well fixed to the holder, so that there  are no accidents.
-
-- Electronic components must be well isolated so that there are no drops falling into them.
