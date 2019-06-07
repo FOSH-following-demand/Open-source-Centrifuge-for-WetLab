@@ -26,9 +26,11 @@ Based on the research done about centrifuge usage we have defined [requirements]
 ## About project documentation and folders:
 There are two sets of documentation in this repository:
 - One that is external and relevant for users. This we try to document carefully and make it easy to understand to others outside the core team. Our final project documentation(the source) will be presented in [this format](https://fosh-following-demand.github.io/Open-source-Centrifuge-for-WetLab/). Be aware that is currently not finished as we haven't released the results yet.
-- Another set of documentation is where we keep internal track of our tasks and progress. This one might be too detailed for external users, and even contributors. If you are interesting in following up also this set of documentation you need to:
+- Another set of documentation is where we keep internal track of our tasks and progress. This one might be too detailed for external users, and even contributors. If you are interested in following up also this set of documentation you need to:
   - Use Atom editor.
   - And install the [.imdone](https://atom.io/packages/imdone-atom) package in Atom.
+  - Clone the project.
+  - Press `Alt+P`, and you should see the status of project management, tasks and priorities.
 
 ## References:
 - [Value Proposition prototyping and testing](https://issuu.com/business.model.innovation/docs/vpd_sneakpeek/92)
