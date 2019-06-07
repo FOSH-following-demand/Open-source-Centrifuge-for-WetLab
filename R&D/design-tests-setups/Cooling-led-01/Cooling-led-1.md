@@ -1,4 +1,4 @@
-#TEST:30 ## Cooling-lead
+#TEST:10 ## Cooling led before centrifuging
 #### Name: Jose
 #### Date: 7-6-2019
 
@@ -17,7 +17,7 @@ A peltier element `3` can be placed on a metal surface `1` that is in direct con
 - [ ] Use an image to explain the setup
 - [ ] What are the materials needed.
   - temperature sensor to measure directly the sample reservoir
-- [ ] Which materials need to be ordered
+- [ ] Which materials need to be orderedpre
 - [ ] How expensive is it roughly
 
 
