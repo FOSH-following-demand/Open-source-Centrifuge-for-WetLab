@@ -13,3 +13,11 @@ Assuming the following
 
 #Hypothesis:10 ## Casing made of [vacuum forming](https://en.wikipedia.org/wiki/Vacuum_forming)
 - We can make already an improvement to this centrifuge by changing the casing design.
+
+#TEST: ## Can we accurately balance a rotor with one very sensitive sensor?
+- Angle sensor can be a good potmeter with a rod that brushes the bottom of the rotor.
+- The rotor makes one slow spin before turning on the program, any change in the potmeter's resistance means that the rotor isn't balanced.
+- Or we could have it reading throughout operation of the centrifuge.
+- Or two springloaded potmeters opposite of eachother, and the difference is calculated.
+- Other sensor option: contact sensor
+-

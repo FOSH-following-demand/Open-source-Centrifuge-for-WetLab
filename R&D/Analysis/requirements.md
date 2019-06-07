@@ -7,7 +7,8 @@
   - Must be able to keep samples symetric in rotor
 
 #### motor
-  - 'X' RPM
+  - 4700 minimum RPM
+  - 10.000 maximum RPM
   - 'z' torque
   - Reliable motor speed with dynamic load variations (is there any specification for this?)
 
