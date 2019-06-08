@@ -2,21 +2,26 @@
 bomName: Ordering for tests and prototypes
 i: Vibration resistant fastener
 
-
+# Options for cooling
 ---
 i: DYI Cooling kit with peltier
 q: 4
 cp:
-d: KKmoon DIY Kit Thermoelectric Peltier Cooler Refrigeration Cooling System Heat Sink Conduction Module + 2 Fans + 2 TEC1-12706
+d: >
+  KKmoon DIY Kit Thermoelectric Peltier Cooler Refrigeration Cooling System Heat Sink Conduction Module + 2 Fans + 2 TEC1-12706
+  Is this good enough
 url: https://www.amazon.com/KKmoon-Thermoelectric-Refrigeration-Conduction-TEC1-12706/dp/B074V4RKXM/ref=sr_1_7?keywords=peltier&qid=1559905456&s=gateway&sr=8-7
+---
+i: DYI Kit for mini fridge
+q:
+url: https://www.amazon.de/dp/B01M5DX5KT?tag=tv-auto-20
+
 
 
 
 
 ---
-
-# A BOMake test with the electrical part of the BOM from the Polyfuge.
-bomName: Polyfuge (electrical part only)
+# A BOMake test with the electrical part of the BOM from the Polyfuge. (this has been all  ordered)
 i: LCD screen       # item
 q: 1                # quantity
 mq: 1               # minimum order quantity
