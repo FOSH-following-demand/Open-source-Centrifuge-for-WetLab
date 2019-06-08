@@ -1,4 +1,4 @@
-#TEST:10 ## Cooling led before centrifuging
+#TEST:30 ## Cooling led before centrifuging
 #### Name: Jose
 #### Date: 7-6-2019
 
