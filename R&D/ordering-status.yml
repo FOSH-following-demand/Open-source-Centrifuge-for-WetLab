@@ -16,8 +16,15 @@ i: DYI Kit for mini fridge
 q:
 url: https://www.amazon.de/dp/B01M5DX5KT?tag=tv-auto-20
 
+---
+# temperature control
+i: Thermocouple type K
+cp:
+q: 2
 
-
+---
+i: Rivnut (to fix Thermocouple)
+d: for Thermocouple
 
 
 ---
