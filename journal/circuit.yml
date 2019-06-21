@@ -1,0 +1,34 @@
+---
+bomName: Centrifuge Electronics BOM   
+i: LM 2596 DC -DC Buck converter
+d: >
+  Input:
+  Output: To the main board circuit
+
+---
+i: Female jack
+d: >
+  Input: AC Transformer
+  Outputs: Switch, Voltage regulator (Polyfuge)
+
+---
+
+i: LCD
+d: >
+  requirements: requires the 200 Ohm potentiometer.
+
+---
+i: Brushless Motor
+d: >
+  Requirements: Speet controller
+---
+i: Speed controller 12 V
+d: >
+  Inputs:
+  Outputs:
+
+---
+i: Sensor
+---
+i:
+---

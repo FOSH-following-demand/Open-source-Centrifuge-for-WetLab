@@ -1,4 +1,6 @@
-#TEST:0 ## Reverse engineer cooling
+#NOT-FEASIBLE:0 ## Reverse engineer cooling
+Not feasible because we don't have one centrifuge of this kind.
+
 #### Name: Santosh
 #### Date:7-6-2019
 
