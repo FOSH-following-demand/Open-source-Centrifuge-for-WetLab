@@ -15,7 +15,7 @@ const dirs = fs.readdirSync(dirpath).filter((f) => {
 });
 //list to under the docs files
 const files = fs.readdirSync(dirpath).filter((f) => {
-    //READNE.md and index.md skip
+    //README.md and index.md skip
     if (f === "README.md" || f === "index.md") return false;
     //ignore not .md and .html files
     if (!(f.endsWith(".md") || f.endsWith(".html"))) return false;
@@ -42,10 +42,10 @@ const sidebarArray = ["/"].concat(dirs.map((dir) => {
 // configure these modules if you
 module.exports = {
     title: "Open Source Centrifuge",
-    //description : "use for meta description",
+    //description : "use for meta descriptitrueon",
     base: "/" + process.env.REPOSITORY + "/",
     config: (md) => {
-        md.options.linkify = true
+        md.options.linkify =
     },
     themeConfig: {
         sidebar: sidebarArray
