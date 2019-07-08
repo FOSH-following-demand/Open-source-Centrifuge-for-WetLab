@@ -209,4 +209,4 @@ of known sedimentation coefficient (in Svedberg units, s):
     t=k/s , k=k-factor , s=sedimentation coefficient
 
 This simple calculation helps researchers save valuable
-time, and spin for the most efficient duration. 
+time, and spin for the most efficient duration.
