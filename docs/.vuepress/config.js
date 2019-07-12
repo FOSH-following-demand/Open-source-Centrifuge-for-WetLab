@@ -45,7 +45,7 @@ module.exports = {
     //description : "use for meta descriptitrueon",
     base: "/" + process.env.REPOSITORY + "/",
     config: (md) => {
-        md.options.linkify =
+        md.options.linkify = sidebarArray;
     },
     themeConfig: {
         sidebar: sidebarArray
