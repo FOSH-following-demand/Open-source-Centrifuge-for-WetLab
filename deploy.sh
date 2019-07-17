@@ -18,6 +18,6 @@ git commit -m 'deploy'
 
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:$GITHUB_USERNAME/$REPOSITORY.git master:gh-pages
+git push -f git@github.com:FOSH-following-demand/Open-source-Centrifuge-for-WetLab.git.git master:gh-pages
 
 cd -
