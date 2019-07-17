@@ -1,0 +1,56 @@
+---
+bomName: Ordering for cooling system
+i: DYI Cooling kit with peltier
+q: 4
+cp:
+d: KKmoon DIY Kit Thermoelectric Peltier Cooler Refrigeration Cooling System Heat Sink Conduction Module + 2 Fans + 2 TEC1-12706
+url: https://www.amazon.com/KKmoon-Thermoelectric-Refrigeration-Conduction-TEC1-12706/dp/B074V4RKXM/ref=sr_1_7?keywords=peltier&qid=1559905456&s=gateway&sr=8-7
+---
+i: DYI Peltier cooling system
+q: 1
+cp: 21
+d: DIY Thermo Peltier Cooling Cooling System + Fan Kit
+url: https://www.banggood.com/nl/DIY-Thermoelectric-Peltier-Refrigeration-Cooling-System-Fan-Kit-p-1111678.html?gmcCountry=NL&currency=EUR&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=lijing&utm_campaign=pla-pc-all-nl&ad_id=342110875401&cur_warehouse=CN
+---
+i: Thermocouple for 12V
+q: 4
+cp: 4.72
+d: 9.103T.610.02X020 - Thermocouple Wire Suitable for K-Type Thermocouple, Roth+Co.
+url: https://www.distrelec.nl/en/thermocouple-wire-suitable-for-type-thermocouple-roth-co-103t-610-02x020/p/15589010?channel=b2c&price_gs=4.719&source=googleps&ext_cid=shgooaqnlen-na&kw=%7Bkeyword%7D&gclid=CjwKEAjwue3nBRCCyrqY0c7bw2wSJACSlmGZ6DWQB1nkWTXShIOM-QHJPLNwlShfdiAGGZUjE7-xpBoCZvzw_wcB
+---
+i: Transformer from 220V to 12V
+q: 1
+cp: 4.99
+d:
+url: https://www.allekabels.nl/transformator/7371/1072293/transformator.html?gclid=CjwKEAjwue3nBRCCyrqY0c7bw2wSJACSlmGZY4CzM_Bm49gO0rycsuVclkd4Z9iylxmY57pcumudLhoCjvvw_wcB
+notes: >
+  To transform the voltage from 220V AC to 12V AC 	required for the peltier.
+---
+i: Power controller board from AC to DC
+q: 1
+cp: 15.12
+d: ZDM High Quality 12V 10A 120W Constant Voltage AC / DC Switching Power Supply Converter (110-240V to DC12V)
+url: https://www.lightinthebox.com/nl/p/hoge-kwaliteit-12v-10a-120w-constant-voltage-ac-dc-stroomvoorziening-converter-110-240v-naar-12v_p1520506.html?currency=EUR&litb_from=paid_adwords_shopping&country_code=nl&utm_source=google_shopping&utm_medium=cpc&adword_mt=&adword_ct=200942347108&adword_kw=&adword_pos=1o4&adword_pl=&adword_net=g&adword_tar=&adw_src_id=8919752254_858596376_42736222279_pla-326490173723&gclid=CjwKEAjwue3nBRCCyrqY0c7bw2wSJACSlmGZapprG7Di2LcIXVgSXbGQvYEYwLh48q6ZedJuwISTxhoCCn3w_wcB
+notes : >
+    To convert from 12 V AC (the output of the transformer)
+     to 12 DC.
+---
+i: Peltier unit
+q: 3
+cp: 8
+d: TEC1-12706 12 V Heatsink Thermoelectric
+url: https://www.grandado.com/products/tec1-12706-12-v-heatsink-thermo-elektrische-koeler-cooling-peltier-plate-module?variant=8104061468766&currency=EUR&gclid=CjwKEAjwue3nBRCCyrqY0c7bw2wSJACSlmGZjx-FuluJ6RrFntScy0GhEvVVTqaZKPVn8snBrFwQTRoCKgHw_wcB
+notes: >
+---
+i: Peltier module + heat sink+ fan
+q: 1
+cp: 40.26
+d: 12V Thermoelectric Peltier Semiconductor Cooling Water cooling system Ventilation kits - 4PIN
+url: https://www.banggood.com/nl/12V-Thermoelectric-Peltier-Semiconductor-Refrigeration-Water-Cooling-System-Fan-Kits-p-1356675.html?rmmds=detail-left-hotproducts__7&ID=511942&cur_warehouse=CN
+---
+i: Heat Sink unit
+q: 1
+cp: 15.49
+d: Pada Engineering 8232/100 / N Profile heat sink 1.18 K / W (lxwxh) 100 x 200 x 25 mm
+url: https://www.conrad.nl/p/pada-engineering-8232100n-profielkoellichaam-118-kw-l-x-b-x-h-100-x-200-x-25-mm-188015?WT.mc_id=gshop&gclid=CjwKEAjwue3nBRCCyrqY0c7bw2wSJACSlmGZ6c7JNQoN_Tn99YeFIeHGaYOeYOjyNzQQWGdk8u_5TBoCx7jw_wcB&tid=1602307424_69143012106_pla-712137737705_pla-188015&WT.srch=1&vat=true&insert_kz=8J
+---
