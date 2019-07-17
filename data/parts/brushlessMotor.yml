@@ -1,0 +1,23 @@
+---
+  name: Emax MT2204 Mini Motor (2300kv / CCW)
+  fileName: 
+  description: >
+    Specially made for Mini 250 size Drones for aggressive and speed flying. A very small but very powerful brushless motor, specially designed for 5~6 inch propeller (Dual-Blade or Tri-Blade), very high rpm and responsive for speed flying. This is a great choice for the 250 class Speed Racing drones with FPV system on it.
+
+  image: http://d1f3xz7hjchz45.cloudfront.net/images/emax-mt2204-2300kv-ccw-big.jpg
+  quantity: 1
+  cadFiles:
+  - name: ''
+    type: step
+    path: "/cam/file.step"
+  camFiles:
+  - name: ''
+    type: stl
+    path: "/cam/file.stl"
+  cost: integer
+  suppliers:
+  - supplierName: ''
+    partNo: ''
+    price: ''
+    link: ''
+

@@ -1,0 +1,21 @@
+---
+name: Rotary Encoder
+  fileName: partNameConvention
+  description: ''
+  image: urlLink
+  quantity: 1
+  cadFiles:
+  - name: ''
+    type: step
+    path: "/cam/file.step"
+  camFiles:
+  - name: ''
+    type: stl
+    path: "/cam/file.stl"
+  cost: integer
+  suppliers:
+  - supplierName: ''
+    partNo: ''
+    price: ''
+    link: ''
+
