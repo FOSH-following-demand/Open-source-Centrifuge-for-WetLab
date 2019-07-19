@@ -1,11 +1,3 @@
-#Doing:0 ## Circuit build
-- Polyfuge board setup
-
-- Use Fritzing for this
-- [ ] Solder female jack for AC transformer
-
-- [ ] Reverse engineer and redesign of polyfuge circuit
-
 # References and tutorials
 ## LCD tutorial
 
@@ -22,7 +14,6 @@
 The board takes a maximum of 5.5 Volts, there fore a voltage regulator is needed. We are currently using a [LM2596 Voltage Regulator](https://www.minikits.com.au/LM2596-PSU-01).
 - [Video review of the regulator](https://www.youtube.com/watch?v=6LTxJWsn1HQ)
 
-## Troubleshooting and issues
-### Bad USB connection with arduino NANO due to USB mini por:
-Arduino Nano presents a lot of instability with regard to USB mini jack.
-In many cases it doesn't allow to upload
+## Cooling module with arduino
+- [Peltier Controlled From An Android App](https://create.arduino.cc/projecthub/abetoo/peltier-controlled-from-an-android-app-e59617)
+- [Relay module for arduino](https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/)
