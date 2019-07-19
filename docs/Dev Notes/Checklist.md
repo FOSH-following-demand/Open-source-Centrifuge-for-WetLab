@@ -1,4 +1,4 @@
-Checklist circuit build
+# Checklist circuit build
 - [ ] Voltage regulator
 - [ ] Speed controller
 - [ ] IRSensor

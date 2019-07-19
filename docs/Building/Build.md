@@ -9,5 +9,5 @@ But you can also replicate it using a regular breadboard.
  :::
 
 
-![Centrifuge schematic](../.vuepress/images/unoSchematic.png)
+![Centrifuge schematic](../images/unoSchematic.png)
 

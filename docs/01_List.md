@@ -1,4 +1,4 @@
-# DYI and Open Source Centrifuge list
+# DIY and Open Source Centrifuge list
 
 ### [Home made centrifuge](https://www.youtube.com/watch?v=EWWUqkEXJUE)
 

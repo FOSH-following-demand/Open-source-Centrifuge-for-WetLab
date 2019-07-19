@@ -9,7 +9,7 @@ const dirpath = "./docs";
 //list to directories for subtree
 const dirs = fs.readdirSync(dirpath).filter((f) => {
     //ignore directory start with .
-    if (f.charAt(0) === ".") return false;
+    if (f.charAt(0) === "." || f === "images") return false;
 
     return fs.existsSync(dirpath + "/" + f) && fs.statSync(dirpath + "/" + f).isDirectory();
 });
