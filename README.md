@@ -1,5 +1,5 @@
-# An Open Source Centrifuge Design for wetlab
-
+# An Open Source Centrifuge Design for wetlab based on Polyfuge v.1.0 Design
+![centrifuge](image.jpg)
 ## Hi! 😄 Welcome to the project
 We are working on the design of an open hardware centrifuge based on the following questions:
 - What can be improved in existing commercial centrifuges?
