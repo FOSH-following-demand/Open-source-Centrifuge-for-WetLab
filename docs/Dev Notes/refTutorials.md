@@ -2,6 +2,7 @@
 ## LCD tutorial
 
 - [Arduino LCD Tutorial](https://howtomechatronics.com/tutorials/arduino/lcd-tutorial/).
+
 - [LM 2596 DC -DC Buck converter | Adjustable step down module | specifications -Application](https://www.youtube.com/watch?v=QPntXt8Ea3s).
 
 - [How does a brushless motor works](https://www.youtube.com/watch?v=uOQk8SJso6Q)
@@ -15,5 +16,8 @@ The board takes a maximum of 5.5 Volts, there fore a voltage regulator is needed
 - [Video review of the regulator](https://www.youtube.com/watch?v=6LTxJWsn1HQ)
 
 ## Cooling module with arduino
-- [Peltier Controlled From An Android App](https://create.arduino.cc/projecthub/abetoo/peltier-controlled-from-an-android-app-e59617)
-- [Relay module for arduino](https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/)
+- [Peltier Controlled From An Android App](https://create.arduino.cc/projecthub/abetoo/peltier-controlled-from-an-android-app-e59617).
+- [Fridge project with peltier part 1](https://www.youtube.com/watch?v=1Kp_yWY2tdU).
+- [Fridge project with peltier part 2](https://www.youtube.com/watch?v=BHFI9nGY8Qs).
+- [Relay module for arduino](https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/).
+- [Arduino temperature controller](https://www.instructables.com/id/Arduino-Temperature-Controller/)
