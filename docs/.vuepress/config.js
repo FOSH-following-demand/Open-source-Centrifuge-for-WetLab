@@ -48,9 +48,27 @@ module.exports = {
         md.options.linkify = sidebarArray;
     },
     themeConfig: {
-        sidebar: sidebarArray
-    }
-};
+        sidebar: sidebarArray,
+        nav: [
+            { text: 'Join us', link: 'https://t.me/joinchat/G3nlmBKMeN71vUJERyfX9g' }
+        ],
+        // Assumes GitHub. Can also be a full GitLab url.
+        repo: 'https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/',
+        // Customising the header label
+        // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
+        repoLabel: 'Contribute!',
 
-//check for sidebar
-console.log(sidebarArray);
+        // Optional options for generating "Edit this page" link
+
+        // if your docs are in a different repo from your main project:
+        docsRepo: 'https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/',
+        // if your docs are not at the root of the repo:
+        docsDir: 'docs',
+        // if your docs are in a specific branch (defaults to 'master'):
+        docsBranch: 'pages',
+        // defaults to false, set to true to enable
+        editLinks: true,
+        // custom text for edit link. Defaults to "Edit this page"
+        editLinkText: 'Help us improve this page!'
+    }
+}
