@@ -1,5 +1,6 @@
 # Open hardware centrifuge project
 <PlayYoutube videolink="https://youtu.be/dMR54wGFlhw"></PlayYoutube>
+### [Join the chat](https://t.me/joinchat/G3nlmBKMeN71vUJERyfX9g)
 
 ## Towards Polyfuge V2.0
 Clone, or download [our repo](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab) with all the source files.
