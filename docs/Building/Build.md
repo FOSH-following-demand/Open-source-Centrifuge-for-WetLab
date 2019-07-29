@@ -8,9 +8,6 @@ But you can also replicate it using a regular breadboard.
 
  :::
 
-## Schematic of current design
-![Schematic](../../src/OSH_Delft_Circuit_PCB/Schematic.png)
-
 ### Overview of connections and components
 ![Centrifuge schematic](../images/unoSchematic.png)
 
@@ -22,7 +19,8 @@ project can be found here:
 
 render of the current design
 ![Render](../../src/OSH_Delft_Circuit_PCB/render.png)
-
+## Schematic of new design
+![Schematic](../../src/OSH_Delft_Circuit_PCB/Schematic.png)
 
 ### To do
 - [x] initial uno pcb design 😎
