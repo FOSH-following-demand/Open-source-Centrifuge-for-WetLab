@@ -1,0 +1,2 @@
+# Motor Calculation documentation
+-[Calculations related to motor in spanish](http://biomodel.uah.es/tecnicas/centrif/centri_calc.htm)

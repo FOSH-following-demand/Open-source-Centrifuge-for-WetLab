@@ -1,0 +1,15 @@
+---
+name: 10K Ohm Resistor
+  fileName: partNameConvention
+  description: ''
+  image: /src/rotaryEncoderModule.png
+  dataSheet: https://www.handsontec.com/dataspecs/module/Rotary%20Encoder.pdf
+  quantity: 3
+
+  cost: integer
+  suppliers:
+  - supplierName: ''
+    partNo: ''
+    price: ''
+    link: ''
+
