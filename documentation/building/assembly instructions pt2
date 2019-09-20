@@ -1,0 +1,40 @@
+##Assembly instructions
+------
+### Part II: assembling the casing
+
+Starting where we have left off with the circuit:
+The circuit is build on the base and the back panel with switch is attached to the base.
+- Now attach the two side panels to the base.
+</br>
+![step1](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/blob/jannes_dev/documentation/building/Step%201%20after%20circuit_%20attach%20side%20panels.jpg?raw=true)
+
+- Connect the wires to the motor (see circuit schematic)
+</br>
+![step2](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/blob/jannes_dev/documentation/building/step%202_%20wire%20motor.jpg?raw=true)
+
+- Attach the middle panel to the sides and back
+
+- Attach the little front panel too
+</br>
+![step3](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/blob/jannes_dev/documentation/building/step%203_%20attach%20middle%20and%20front%20panel.jpg?raw=true)
+
+- Mount the display and rotary knob to the display panel.
+![step4.1](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/blob/jannes_dev/documentation/building/step%204.1%20mount%20display%20and%20knob.jpg?raw=true)
+![step4.2](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/blob/jannes_dev/documentation/building/step%204.2.jpg?raw=true)
+
+- Wire the display and rotary knob (see circuit schematic)
+![step5](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/blob/jannes_dev/documentation/building/step%205_%20wire%20display%20and%20knob.jpg?raw=true)
+##### Tip:
+Tape the wire connectors together to keep them in the right order when you have to disassemble parts.
+
+- Screw the display panel in place
+![step6](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/blob/jannes_dev/documentation/building/step%206_%20fasten%20display%20panel.jpg?raw=true)
+
+- Assemble the lid
+![step7](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/blob/jannes_dev/documentation/building/Step%207_%20assemble%20lid.jpg?raw=true)
+
+- Assemble the hinges: from outside to inside: screw, spacer ring, lid/box, spacer ring, hinge, spacer ring, bolt.
+- Keep the bolt on the lid a bit loose, tighten the bolt on the bottom.
+
+![step8.1](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/blob/jannes_dev/documentation/building/step%208.1_%20assemble%20hinges.jpg?raw=true)
+![step8.2](https://github.com/FOSH-following-demand/Open-source-Centrifuge-for-WetLab/blob/jannes_dev/documentation/building/stp%208.2.jpg?raw=true)
