@@ -1,0 +1,25 @@
+#Partial Challenges
+In the further development of the centrifuge we can identify a set of smaller challenges that anyone can take up.
+
+### New Motor
+(insert motor specs en technical drawings from both motors)
+1. Design how the bigger motor can be fastened to the frame.
+2. Design a new rotor that can be fastened to the new motor.
+3. Incorporate the electronics of the new motor in current electronics layout.
+4. Incorporate the control of the new motor in the code.
+
+### Safety
+1. Design a safety lid with metal sheet that can absorb a sample that is flung out.
+2. Design a safety system that switches of the motor when the rotor is imbalanced.
+3. Design a braking systems that does not only switch of the motor but also actively stops it.
+4. Design a rotor with an extra safety lid that keeps the samples in place while spinning.
+
+### Cooling
+1. Simulate cooling of the air volume under the lid with the Peltier element (insert specs). How long does it take to cool 20 C to 4 C?
+2. Design a controlling system for the cooling with the Peltier ellement.
+3. Design other ways to cool the air under the lid or just the samples alone.
+
+### Customization
+1. Design a fully 3D printable design of the frame.
+2. Create a parametric model that can create custom laser cut files based on the current design.
+3. Create a parametric model that can create custom 3D print files based on the design of (1).
